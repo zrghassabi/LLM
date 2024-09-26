@@ -30,4 +30,6 @@ Chapter2_Solution[1].ipynb
 
 Chapter3_Demo1_TransferLearning[1].ipynb
 
+Chapter3_Demo2_Translation_FlanT5_with_Evaluation[1].ipynb
+
 
