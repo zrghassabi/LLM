@@ -19,3 +19,9 @@ https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced
 # Enhanced Prompting with Flan-T5 using In-Context Learning and Few-Shot Pattern
 
 Chapter2_Demo2_Prompting_FlanT5_ICL_FewShot[1].ipynb====>Summarization, Translation, Q&A with few-shot Learning using Flan-T5
+
+# Article Translation using Few-Shot Learning with Flan-T5
+
+Chapter2_Solution[1].ipynb
+
+
