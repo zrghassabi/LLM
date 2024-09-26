@@ -26,4 +26,8 @@ Chapter2_Demo2_Prompting_FlanT5_ICL_FewShot[1].ipynb====>Summarization, Translat
 
 Chapter2_Solution[1].ipynb
 
+# Translation from English to Spanish using Flan-T5 and Helsinki-NLP/opus-100 Dataset
+
+Chapter3_Demo1_TransferLearning[1].ipynb
+
 
