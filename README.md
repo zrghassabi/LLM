@@ -50,6 +50,11 @@ Chapter5_Solution1_DistilBERT_SST2_Transfer_Learning[1].ipynb
 
 https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/articles/step-by-step-fine-tuning-the-sentiment-analysis-model?autoSkip=true&resume=false
 
+#  Step-by-Step: Fine-Tuning the Q&A Model
+
+https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/articles/step-by-step-fine-tuning-the-q-a-model?autoSkip=true&resume=false
+
+
 
 
 
