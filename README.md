@@ -42,6 +42,10 @@ Chapter3_Solution[1].ipynb
 
 Chapter4_Demo1_LoRA_FineTuning_FLAN_T5[1].ipynb
 
+# Sentiment Analysis with DistilBERT and SST2 Dataset
+Chapter5_Solution1_DistilBERT_SST2_Transfer_Learning[1].ipynb
+
+
 
 
 
