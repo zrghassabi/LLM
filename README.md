@@ -55,6 +55,11 @@ https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced
 https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/articles/step-by-step-fine-tuning-the-q-a-model?autoSkip=true&resume=false
 
 
+# Step-by-Step: Fine-Tuning the Summarization Model
+
+https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/articles/step-by-step-fine-tuning-the-summarization-model?autoSkip=true&resume=false
+
+
 
 
 
