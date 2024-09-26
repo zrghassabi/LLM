@@ -46,6 +46,12 @@ Chapter4_Demo1_LoRA_FineTuning_FLAN_T5[1].ipynb
 Chapter5_Solution1_DistilBERT_SST2_Transfer_Learning[1].ipynb
 
 
+# Step-by-Step: Fine-Tuning the Sentiment Analysis Model
+
+https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/articles/step-by-step-fine-tuning-the-sentiment-analysis-model?autoSkip=true&resume=false
+
+
+
 
 
 
