@@ -38,4 +38,11 @@ Chapter3_Demo2_Translation_FlanT5_with_Evaluation[1].ipynb
 
 Chapter3_Solution[1].ipynb
 
+# LoRA Fine-Tuning with Hugging Face and TensorFlow on FLAN-T5-base for WMT16 Translation
+
+Chapter4_Demo1_LoRA_FineTuning_FLAN_T5[1].ipynb
+
+
+
+
 
