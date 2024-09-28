@@ -59,6 +59,10 @@ https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced
 
 https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced/articles/step-by-step-fine-tuning-the-summarization-model?autoSkip=true&resume=false
 
+# resources by coursera 
+
+https://www.coursera.org/learn/generative-ai-with-llms/supplement/kRX5c/week-1-resources
+
 
 
 
