@@ -63,6 +63,8 @@ https://www.linkedin.com/learning/fine-tuning-for-llms-from-beginner-to-advanced
 
 https://www.coursera.org/learn/generative-ai-with-llms/supplement/kRX5c/week-1-resources
 
+https://www.coursera.org/learn/generative-ai-with-llms/supplement/zlpBf/week-2-resources
+
 
 
 
