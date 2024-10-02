@@ -65,6 +65,8 @@ https://www.coursera.org/learn/generative-ai-with-llms/supplement/kRX5c/week-1-r
 
 https://www.coursera.org/learn/generative-ai-with-llms/supplement/zlpBf/week-2-resources
 
+https://www.deeplearning.ai/short-courses/retrieval-optimization-from-tokenization-to-vector-quantization/
+
 
 
 
